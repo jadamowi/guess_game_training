@@ -1,3 +1,5 @@
+// Guess game program based on https://doc.rust-lang.org/book
+
 use rand::Rng;
 use std::cmp::Ordering;
 use std::io;
